@@ -15,7 +15,7 @@ function preload()
 {
 	babyimage = loadImage("dg.png");
 
-	boyimage = loadImage(".y799.png");
+	boyimage = loadImage("y799.png");
 
 }
 
